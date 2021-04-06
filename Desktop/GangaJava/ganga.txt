@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6454-480A
+
+ Directory of C:\Users\Ganga\Desktop\GangaJava
+
+04/06/2021  08:27 PM    <DIR>          .
+04/06/2021  08:27 PM    <DIR>          ..
+04/06/2021  08:27 PM                 0 ganga.txt
+04/06/2021  08:26 PM               427 HelloWorld.class
+03/19/2021  06:35 PM               121 HelloWorld.java
+03/18/2021  06:17 PM             6,515 NewJava.jar
+               4 File(s)          7,063 bytes
+               2 Dir(s)  183,358,455,808 bytes free
